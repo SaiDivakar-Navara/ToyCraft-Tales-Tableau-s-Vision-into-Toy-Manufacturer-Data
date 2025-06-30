@@ -1,6 +1,5 @@
 # ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data
 # Toy Sales Analytics
-![GitHub last commit](https://img.shields.io/github/last-commit/thecaptainfalcon/toy-sales-analytics)
 
 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/joseph708/viz/Draftp1/ExecutiveToys) 
 
