@@ -4,7 +4,7 @@
 
 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/joseph708/viz/Draftp1/ExecutiveToys) 
 
-![Executive Sales Dashboard](./images/md_images/Executive_Toys.png "Executive Sales Dashboard - Toy Sales in Mexico")
+![Executive Sales Dashboard](https://raw.githubusercontent.com/SaiDivakar-Navara/ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data/refs/heads/main/Project%20Files/images/md_images/Executive_Toys.png)
 
 ## Table of Contents
 1. [What is this project?](#project-id)
@@ -115,7 +115,7 @@ A great way to pivot would be to look at capitalizing on the inventory shortage 
 
 ## EER Diagram 
 
-![MySQL EER Diagram](/images/EER_Diagram.JPG "EER Diagram")
+![MySQL EER Diagram](https://raw.githubusercontent.com/SaiDivakar-Navara/ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data/refs/heads/main/Project%20Files/images/EER_Diagram.JPG)
 
 <div id='sql-id'>
 
@@ -123,21 +123,21 @@ A great way to pivot would be to look at capitalizing on the inventory shortage 
 
 ### Sales/Profit/Expenses by Location
 
-![sql stored procedure - sales/profit/expenses by location](/images/sql_stored_procedure-store_location_stats.JPG "sales/profit/expenses by location")
+![sql stored procedure - sales/profit/expenses by location](https://raw.githubusercontent.com/SaiDivakar-Navara/ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data/refs/heads/main/Project%20Files/images/sql_stored_procedure-store_location_stats.JPG)
 
-![sql call - sales/profit/expenses by location](/images/CALL_location_stats.JPG "sales/profit/expenses by location")
+![sql call - sales/profit/expenses by location](https://raw.githubusercontent.com/SaiDivakar-Navara/ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data/refs/heads/main/Project%20Files/images/CALL_location_stats.JPG)
 
 ### Sales/Profit/Expenses by City
 
-![sql stored procedure - sales/profit/expenses by city](/images/sql_stored_procedure-city_stats.JPG "sales/profit/expenses by city")
+![sql stored procedure - sales/profit/expenses by city](https://raw.githubusercontent.com/SaiDivakar-Navara/ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data/refs/heads/main/Project%20Files/images/sql_stored_procedure-city_stats.JPG)
 
-![sql call - sales/profit/expenses by city](/images/CALL_city_stats.JPG "sales/profit/expenses by city")
+![sql call - sales/profit/expenses by city](https://raw.githubusercontent.com/SaiDivakar-Navara/ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data/refs/heads/main/Project%20Files/images/CALL_location_stats.JPG)
 
 ### Store Inventory by Location
 
-![sql stored procedure - store inventory by location](/images/sql_stored_procedure-store_inventory_by_location.JPG "store inventory by location")
+![sql stored procedure - store inventory by location](https://raw.githubusercontent.com/SaiDivakar-Navara/ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data/refs/heads/main/Project%20Files/images/sql_stored_procedure-store_inventory_by_location.JPG)
 
-![sql call - store inventory by location](/images/CALL_store_inventory_by_location.JPG "store inventory by location")
+![sql call - store inventory by location](https://raw.githubusercontent.com/SaiDivakar-Navara/ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data/refs/heads/main/Project%20Files/images/CALL_store_inventory_by_location.JPG)
 
 
 <div id='author-id'>
